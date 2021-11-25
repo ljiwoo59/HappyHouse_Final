@@ -5,7 +5,7 @@
 ### [FrontEnd](https://github.com/ljiwoo59/HappyHouse_Front_Final)
 * 구현 화면
 
-### [BackEnd](https://github.com/ljiwoo59/HappyHouse_Front_Final)
+### [BackEnd](https://github.com/ljiwoo59/HappyHouse_Back_Final)
 * Class Diagram
 * Usecase Diagram
 * ERD
